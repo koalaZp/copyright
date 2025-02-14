@@ -4,7 +4,7 @@
 - **商品链接**（2024.11.15首次使用图片）：  
   [http://www.amazon.com/gp/product/B0DN69YJGP](http://www.amazon.com/gp/product/B0DN69YJGP)  
 - **手稿图**（原图含相机属性信息）：  
-  ![手稿图](https://csrp.oss-cn-hongkong.aliyuncs.com/24-12-02%2009-15-24%207929.jpg)  
+  ![手稿图](https://csrp.oss-cn-hongkong.aliyuncs.com/24-12-02.jpg)  
 - **产品设计过程图**：  
   ![设计过程](https://csrp.oss-cn-hongkong.aliyuncs.com/proc.png)  
 - **版权注册回执**：  
